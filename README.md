@@ -1,6 +1,9 @@
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop (JVM).
 
 ## Template For AGP 9+ [Android, iOS, Web, Desktop (JVM)]
+### This template has all necessary updated changes for APG 9+ requirements
+### Start your new project with this template also you can test and learn
+
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
